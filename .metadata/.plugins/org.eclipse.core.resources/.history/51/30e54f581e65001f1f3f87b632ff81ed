@@ -1,0 +1,5 @@
+package com.app.HashGenerator;
+
+public class DestinationHashGenerator {
+
+}
