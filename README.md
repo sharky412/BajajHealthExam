@@ -5,6 +5,7 @@ My solution to a Bajaj Health exam question: a Java command-line tool that reads
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white)
 ![JSON](https://img.shields.io/badge/org.json-20210307-000000?logo=json&logoColor=white)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## How it works
 
@@ -51,3 +52,7 @@ BajajHealthExam/
     └── src/main/java/com/app/HashGenerator/
         └── DestinationHashGenerator.java # Main class
 ```
+
+## License
+
+Released under the [MIT License](LICENSE).
